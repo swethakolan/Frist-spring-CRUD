@@ -1,10 +1,10 @@
-# First Spring Boot Project
+# First Spring Project
 
 ## 📌 Overview
 
-This is my first Spring Boot project where I learned the basics of building a backend application using Spring Boot.
+This is my first Spring project where I learned the basics of building a backend application using Spring Boot.
 
-The project focuses on understanding **layered architecture** and how different layers interact with each other in a Spring Boot application.
+The project focuses on understanding **layered architecture** and how different layers interact with each other in a Spring application.
 
 ---
 
@@ -38,7 +38,7 @@ This project follows a **layered architecture**:
 ## 🛠️ Tools & Technologies
 
 * Java
-* Spring Boot
+* Spring
 * Maven
 * Postman (for API testing)
 
@@ -46,18 +46,14 @@ This project follows a **layered architecture**:
 
 ## 🎯 Learning Outcomes
 
-* Understanding Spring Boot project structure
+* Understanding Spring project structure
 * Clear knowledge of Controller, Service, Repository, and DB layers
 * How data flows in a backend application
 * Writing clean and modular code
 
 ---
 
-## 🚀 Future Improvements
 
-* Connect to a real database (MySQL / PostgreSQL)
-* Implement CRUD operations
-* Add validation and exception handling
 
 ---
 
